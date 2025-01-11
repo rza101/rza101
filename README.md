@@ -1,3 +1,3 @@
 ## Hello World!!! 👋
 
-I am a **slightly** nerd guy that interested in software development, especially Android and Backend Web Development (with a little bit interest on IoT and Machine Learning)
+I am a software developer specializing on Android Development and Back-End Web Development, with additional interest on Machine Learning
